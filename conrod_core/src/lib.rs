@@ -10,7 +10,6 @@
 
 #[macro_use]
 extern crate conrod_derive;
-extern crate copypasta;
 extern crate daggy;
 extern crate fnv;
 extern crate input as piston_input;
